@@ -58,11 +58,11 @@
 			children = (
 				2BBBAE9021EF928200DEDD7E /* AppDelegate.swift */,
 				2BBBAE9221EF928200DEDD7E /* ViewController.swift */,
+				2B6DC66E21F61E6300E64B5B /* ExchangeCalculator.swift */,
 				2BBBAE9421EF928200DEDD7E /* Main.storyboard */,
 				2BBBAE9721EF928300DEDD7E /* Assets.xcassets */,
 				2BBBAE9921EF928300DEDD7E /* LaunchScreen.storyboard */,
 				2BBBAE9C21EF928300DEDD7E /* Info.plist */,
-				2B6DC66E21F61E6300E64B5B /* ExchangeCalculator.swift */,
 			);
 			path = ExchangeCalculator;
 			sourceTree = "<group>";
