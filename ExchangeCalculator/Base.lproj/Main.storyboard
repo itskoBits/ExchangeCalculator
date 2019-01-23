@@ -60,18 +60,11 @@
                                 <state key="normal" title="Exchange">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
-                                <connections>
-                                    <action selector="didTapExchangeButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="WSJ-IZ-Ijt"/>
-                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
-                    <connections>
-                        <outlet property="btcTextField" destination="J62-TZ-Cgy" id="9tj-Lx-g8W"/>
-                        <outlet property="usdTextField" destination="rD8-V4-W9b" id="trZ-hr-iTM"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
